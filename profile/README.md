@@ -1,5 +1,3 @@
-# Cartesi
-
 Cartesi is an open-source framework for building application-specific rollups on Ethereum and other EVM-compatible chains.
 Applications run off-chain as ordinary Linux programs, with the languages, libraries, and tools available for RISC-V Linux.
 
