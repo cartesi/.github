@@ -25,6 +25,7 @@ Cartesi is developed as an open-source public good, with infrastructure availabl
 - [Sequencer](https://github.com/cartesi/sequencer): add optional low-latency soft confirmations and batch inputs for submission to the base chain.
 - [Engineering map](ENGINEERING_MAP.md): find repositories, component status, and dependencies.
 - [Developer community](https://discord.gg/cartesi): ask questions and discuss what you are building.
+- [Security policy](https://github.com/cartesi/.github/blob/main/SECURITY.md): report a vulnerability privately.
 
 Contributions are welcome through each repository's contribution guidelines.
 Licenses vary by component: the Cartesi Machine uses LGPL-3.0; the on-chain Machine verifier, Dave, Rollups Contracts, Rollups Node, Sequencer, and the CLI use Apache-2.0.
